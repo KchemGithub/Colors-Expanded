@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=1]
+[ext_resource path="res://mods/colorsexpanded/assets/icons/color_icon.png" type="Texture" id=2]
+
+[resource]
+script = ExtResource( 1 )
+name = "Flicker Fur"
+desc = "Orange Gradient 4"
+title = ""
+icon = ExtResource( 2 )
+species_alt_mesh = [  ]
+main_color = Color( 0.8392, 0.4431, 0.1961, 1 )
+body_pattern = [  ]
+mirror_face = "true"
+flip = "false"
+allow_blink = "true"
+category = "primary_color"
+cos_internal_id = 0
+in_rotation = "false"
+chest_reward = "false"
+cost = 10
